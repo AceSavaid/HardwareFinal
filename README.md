@@ -31,12 +31,14 @@ Additionally, I decided to make the piezo speaker sound when there is an input. 
 
 
 # Electronics
-I used Tinker Cad to show off my design. 
+I used Tinker Cad to show off my design. It consists of 4 buttons, a potentiometer, a peizo and a light.  These are controlled by an aurdino. 
+![Screenshot 2024-12-05 145152](https://github.com/user-attachments/assets/f1d57909-c985-4ed9-933f-d6043cf34761)
+
 
 # CAD 
 I first translated the sketch into a more refined one in Fusion 360. 
 ![Screenshot 2024-12-05 130338](https://github.com/user-attachments/assets/9ffaaa46-4186-4814-8ab7-f46c001175ae)
-Then I extruded the letters to be defined, creating a top/cover of the controller.  I then created another component for the body.  I used GrabCAD to get parts for the Arduino, keycaps and potentiometer, while I created the buttons out of cylinders.  
+Then I extruded the letters to be defined, creating a top/cover of the controller.  I then created another component for the body.  I used GrabCAD to get parts for the Arduino, keycaps and potentiometer, while I created the buttons out of cylinders.  The case and body holds off of these contents, with holes for the keys, potentiometer dail and power source of the arduino
 ![Screenshot 2024-12-05 140530](https://github.com/user-attachments/assets/3d315430-eabc-4c3c-bfc8-85f3aa319d29)
 
 
